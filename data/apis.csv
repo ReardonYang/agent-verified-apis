@@ -1,0 +1,296 @@
+category,name,url,description,auth,https,cors,verify_level,last_checked,status
+Cryptocurrency,Coinlayer,https://coinlayer.com?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers,Real-time Crypto Currency Exchange Rates,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,0x,https://docs.0x.org/,API for querying token and pool stats across various liquidity pools,No,Yes,Yes,L0 收录未验,,待核验
+Cryptocurrency,1inch,https://business.1inch.com/portal/documentation,API for querying decentralize exchange,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,Alchemy Ethereum,https://www.alchemy.com/docs/,Ethereum Node-as-a-Service Provider,apiKey,Yes,Yes,L0 收录未验,,待核验
+Cryptocurrency,Alpha (Mossland),https://alpha.moss.land/developers,Korean crypto channel stance + RAG Q&A + canonical entity/topic/event store,No,Yes,Yes,L0 收录未验,,待核验
+Cryptocurrency,AlphaGrowth,https://alphagrowth.io/openapi.json,"Crypto project metrics, community growth, funding rounds, investors, chains, fees and DAO treasuries",No,Yes,No,L0 收录未验,,待核验
+Cryptocurrency,Binance,https://github.com/binance/binance-spot-api-docs,Exchange for Trading Cryptocurrencies based in China,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,Bitcambio,https://nova.bitcambio.com.br/api/v3/docs#a-public,Get the list of all traded assets in the exchange,No,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,BitcoinAverage,https://apiv2.bitcoinaverage.com/,Digital Asset Price Data for the blockchain industry,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,BitcoinCharts,https://bitcoincharts.com/about/exchanges/,Financial and Technical Data related to the Bitcoin Network,No,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,Bitcoin Halving,https://why21million.com/halving-api/,"Halving era, block reward, and schedule arithmetic for any Bitcoin block height",No,Yes,Yes,L0 收录未验,,待核验
+Cryptocurrency,BitcoinYield,https://bitcoinyield.co/docs,"Live yields on BTC, ETH and stablecoins across DeFi and CeFi, with an A-D risk grade per offer",No,Yes,Yes,L0 收录未验,,待核验
+Cryptocurrency,Bitculator,https://bitculator.com/en/documentation/api/v1,"Crypto prices, OHLCV history, sentiment, technical indicators, exchanges and liquidations",apiKey,Yes,Yes,L0 收录未验,,待核验
+Cryptocurrency,Bitfinex,https://docs.bitfinex.com/docs,Cryptocurrency Trading Platform,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,BitPanda,https://developers.bitpanda.com,Cryptocurrency Information,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,Bitmex,https://www.bitmex.com/app/apiOverview,Real-Time Cryptocurrency derivatives trading platform based in Hong Kong,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,Bittrex,https://bittrex.github.io/api/v3,Next Generation Crypto Trading Platform,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,Block,https://block.io/docs/basic,"Bitcoin Payment, Wallet & Transaction Data",apiKey,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,BlazePhoenix,https://blazephoenix.xyz/api,On-chain DEX aggregator quotes and route execution data,No,Yes,Yes,L0 收录未验,,待核验
+Cryptocurrency,bilbop,https://api.bilbop.org,"Solana USDC x402 pay-per-call tools for agents: SPL mint info, token brief, text summarize, Piper TTS, brand feedback",No,Yes,Yes,L0 收录未验,,待核验
+Cryptocurrency,Block Lottos,https://blocklottos.com/openapi.json,"On-chain lottery, draw history, jackpot and advertising endpoints",No,Yes,Yes,L0 收录未验,,待核验
+Cryptocurrency,Blockchain,https://www.blockchain.com/api,"Bitcoin Payment, Wallet & Transaction Data",apiKey,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,blockfrost Cardano,https://blockfrost.io/,Interaction with the Cardano mainnet and several testnets,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,Brave NewCoin,https://bravenewcoin.com/developers,Real-time and historic crypto data from more than 200+ exchanges,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,BTCGlobe,https://btcglobe.live/join#makers,"Bitcoin height, fees, mempool and peer data served live from two self-hosted nodes",No,Yes,Yes,L0 收录未验,,待核验
+Cryptocurrency,btcnode.uk,https://btcnode.uk,"Bitcoin blockchain data, fees, mempool, SEC insider trades, Reddit sentiment. x402 micropayments for paid endpoints.",No,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,BtcTurk,https://docs.btcturk.com/,"Real-time cryptocurrency data, graphs and API that allows buy&sell",apiKey,Yes,Yes,L0 收录未验,,待核验
+Cryptocurrency,Bybit,https://www.bybit.com/docs/v5/introduction,Cryptocurrency data feed and algorithmic trading,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,CoinAPI,https://docs.coinapi.io/,All Currency Exchanges integrate under a single api,apiKey,Yes,No,L0 收录未验,,待核验
+Cryptocurrency,Coinbase,https://developers.coinbase.com,"Bitcoin, Bitcoin Cash, Litecoin and Ethereum Prices",apiKey,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,Coinbase Pro,https://docs.pro.coinbase.com/#api,Cryptocurrency Trading Platform,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,CoinCap,https://docs.coincap.io/,Real time Cryptocurrency prices through a RESTful API,No,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,CoinDCX,https://docs.coindcx.com/,Cryptocurrency Trading Platform,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,CoinGecko,http://www.coingecko.com/api,"Cryptocurrency Price, Market, and Developer/Social Data",No,Yes,Yes,L0 收录未验,,待核验
+Cryptocurrency,Coinigy,https://coinigy.docs.apiary.io,Interacting with Coinigy Accounts and Exchange Directly,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,Coinlib,https://coinlib.io/,Crypto Currency Prices,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,CoinLobster,https://coinlobster.com/developers,Live executed whale trades across 15 exchanges and on-chain DEX with an unusualness radar,No,Yes,Yes,L0 收录未验,,待核验
+Cryptocurrency,Coinlore,https://www.coinlore.com/cryptocurrency-data-api,"Cryptocurrencies prices, volume and more",No,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,CoinMarketCap,https://coinmarketcap.com/api/,Cryptocurrencies Prices,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,Coinmico,https://docs.coinmico.com,"Crypto prices, volume and liquidity measured from real trades on 50+ exchanges and DEXs",apiKey,Yes,Yes,L0 收录未验,,待核验
+Cryptocurrency,CoinNudge,https://coinnudge.site/data/api-docs,"Current crypto market breadth, funding and open-interest research datasets",apiKey,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,Coinpaprika,https://api.coinpaprika.com,"Cryptocurrencies prices, volume and more",No,Yes,Yes,L0 收录未验,,待核验
+Cryptocurrency,CoinRanking,https://developers.coinranking.com/api/documentation,Live Cryptocurrency data,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,Coinremitter,https://coinremitter.com/docs,Cryptocurrencies Payment & Prices,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,CoinStats,https://documenter.getpostman.com/view/5734027/RzZ6Hzr3?version=latest,Crypto Tracker,No,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,CoinXview,https://coinxview.com/en/api-mien-phi,"Real-time crypto prices aggregated from 22 exchanges, OHLC, market stats, Fear & Greed",No,Yes,Yes,L0 收录未验,,待核验
+Cryptocurrency,CorpStacking,https://www.corpstacking.com/feed.json,"Corporate, government and ETF Bitcoin, Ethereum and Solana treasury disclosures",No,Yes,Yes,L0 收录未验,,待核验
+Cryptocurrency,CryptAPI,https://docs.cryptapi.io/,Cryptocurrency Payment Processor,No,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,CryptingUp,https://www.cryptingup.com/apidoc/#introduction,Cryptocurrency data,No,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,Crypto Vision,https://cryptocurrency.cv/developers,"Free crypto news aggregator with market context, JSON REST and RSS",No,Yes,Yes,L0 收录未验,,待核验
+Cryptocurrency,CryptoCompare,https://www.cryptocompare.com/api#,Cryptocurrencies Comparison,No,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,CryptoKeyhole,https://cryptokeyhole.com/data-access/,"On-chain and market metrics for Bitcoin, Ethereum and more, computed from self-hosted nodes",No,Yes,No,L0 收录未验,,待核验
+Cryptocurrency,CryptoMarket,https://api.exchange.cryptomkt.com/,Cryptocurrencies Trading platform,apiKey,Yes,Yes,L0 收录未验,,待核验
+Cryptocurrency,Cryptonator,https://www.cryptonator.com/api/,Cryptocurrencies Exchange Rates,No,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,Deep Blue Alpha,https://deepbluealpha.io/whale-api,"Real-time Ethereum whale wallet tracking, DEX trades, net flow, and conviction scoring",apiKey,Yes,Yes,L0 收录未验,,待核验
+Cryptocurrency,DefiLlama,https://defillama.com/docs/api,"Open and transparent DeFi data, TVL, coin prices, volumes, and yields",No,Yes,Yes,L0 收录未验,,待核验
+Cryptocurrency,Degenscan Intel,https://intel.degenscan.io/carry,"Hyperliquid funding on every dex (HIP-3 incl.), cross-dex spreads, event feed; free trial key",apiKey,Yes,No,L0 收录未验,,待核验
+Cryptocurrency,Dudelytics,https://dudelytics.com/en/dpmi/data/,"Productive crypto indices, daily benchmarks, sector indices and market-stress data",No,Yes,No,L0 收录未验,,待核验
+Cryptocurrency,dYdX,https://docs.dydx.exchange/,Decentralized cryptocurrency exchange,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,Ethplorer,https://github.com/EverexIO/Ethplorer/wiki/Ethplorer-API,"Ethereum tokens, balances, addresses, history of transactions, contracts, and custom structures",apiKey,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,EXMO,https://documenter.getpostman.com/view/10287440/SzYXWKPi,Cryptocurrencies exchange based in UK,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,FraudCoins,https://fraudcoins.com/data/,On-chain top-10 holder concentration and contract permissions for crypto tokens,No,Yes,Yes,L0 收录未验,,待核验
+Cryptocurrency,Gateio,https://www.gate.io/api2,"API provides spot, margin and futures trading operations",apiKey,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,Gemini,https://docs.gemini.com/rest-api/,Cryptocurrencies Exchange,No,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,Hirak Exchange Rates,https://rates.hirak.site/,"Exchange rates between 162 currency & 300 crypto currency update each 5 min, accurate, no limits",apiKey,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,HostDeFi,https://hostdefi.com/docs/api/,Free A+–F token-safety grades across Solana and EVM chains,No,Yes,Yes,L0 收录未验,,待核验
+Cryptocurrency,Huobi,https://huobiapi.github.io/docs/spot/v1/en/,Seychelles based cryptocurrency exchange,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,Hyperliquid Market Data,https://rapidapi.com/theliminalguy/api/hyperliquid-market-data-oi-funding-open-interest,"Hyperliquid open interest, funding and cross-venue predicted rates per coin",apiKey,Yes,Yes,L0 收录未验,,待核验
+Cryptocurrency,icy.tools,https://developers.icy.tools/,GraphQL based NFT API,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,Indodax,https://github.com/btcid/indodax-official-api-docs,Trade your Bitcoin and other assets with rupiah,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,INFURA Ethereum,https://infura.io/product/ethereum,Interaction with the Ethereum mainnet and several testnets,apiKey,Yes,Yes,L0 收录未验,,待核验
+Cryptocurrency,Ironflow,https://docs.ironflow.sh,"Hyperliquid trades, liquidations, candles, funding and wallet data, plus SQL; no key to start",No,Yes,Yes,L0 收录未验,,待核验
+Cryptocurrency,Kraken,https://docs.kraken.com/exchange/guides/rest/introduction,Cryptocurrencies Exchange,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,KuCoin,https://docs.kucoin.com/,Cryptocurrency Trading Platform,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,Localbitcoins,https://localbitcoins.com/api-docs/,P2P platform to buy and sell Bitcoins,No,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,Lucyd,https://lucyd.trade/api-docs,"Bitcoin Up/Down prediction markets on testnet: markets, trades, positions, order books",No,Yes,Yes,L0 收录未验,,待核验
+Cryptocurrency,MadeOnSol,https://madeonsol.com/developer,"Real-time Solana & Robinhood Chain KOL trades, deployer reputation, and DEX activity",apiKey,Yes,Yes,L0 收录未验,,待核验
+Cryptocurrency,MarginPad,https://marginpad.io/free-crypto-api/,"Crypto futures prices, candles, funding, open interest, long/short and liquidations, 9 exchanges",No,Yes,Yes,L0 收录未验,,待核验
+Cryptocurrency,Mempool,https://mempool.space/api,Bitcoin API Service focusing on the transaction fee,No,Yes,No,L0 收录未验,,待核验
+Cryptocurrency,MercadoBitcoin,https://www.mercadobitcoin.com.br/api-doc/,Brazilian Cryptocurrency Information,No,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,Messari,https://messari.io/api,Provides API endpoints for thousands of crypto assets,No,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,Mexc,https://www.mexc.com/api-docs,"Cryptocurrency info, place order",apiKey,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,monerometrics,https://monerometrics.net,"Reorg-aware Monero (XMR) network metrics, mining-pool centralization and chain reorganizations",No,Yes,Yes,L0 收录未验,,待核验
+Cryptocurrency,MyCryptoSignal,https://mycryptosignal.com/api/,"Crypto market data: daily direction signals, prices, on-chain and news snapshots",apiKey,Yes,Yes,L0 收录未验,,待核验
+Cryptocurrency,Nexchange,https://nexchange2.docs.apiary.io/,Automated cryptocurrency exchange service,No,No,Yes,L0 收录未验,,待核验
+Cryptocurrency,Nomics,https://nomics.com/docs/,Historical and realtime cryptocurrency prices and market data,apiKey,Yes,Yes,L0 收录未验,,待核验
+Cryptocurrency,NovaDax,https://doc.novadax.com/en-US/#introduction,"NovaDAX API to access all market data, trading management endpoints",apiKey,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,OKEx,https://www.okex.com/docs/,Cryptocurrency exchange based in Seychelles,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,OptimistFi Perps,https://optimistfi.com/perps/data,"Funding, open interest, prices and leverage caps for perps on 40+ venues, in one schema",No,Yes,Yes,L0 收录未验,,待核验
+Cryptocurrency,Paribu,https://docs.paribu.com/api,"Turkish cryptocurrency exchange with real-time market data, trading and WebSocket streams",apiKey,Yes,No,L0 收录未验,,待核验
+Cryptocurrency,Poloniex,https://docs.poloniex.com,US based digital asset exchange,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,PumpFunData,https://pumpfundata.com/docs,Historical Pump.fun and PumpSwap AMM swap data as hourly Parquet files,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,Shumi,https://docs.shumi.ai/api-reference/introduction,"Crypto market data: prices, trends, funding rates, sentiment, narratives and market regime",apiKey,Yes,Yes,L0 收录未验,,待核验
+Cryptocurrency,SoChain,https://sochain.com/docs,"Bitcoin, Litecoin, Dogecoin and Zcash addresses, transactions, blocks and fees",No,Yes,Yes,L0 收录未验,,待核验
+Cryptocurrency,Solana JSON RPC,https://docs.solana.com/developing/clients/jsonrpc-api,Provides various endpoints to interact with the Solana Blockchain,No,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,SoloLuck,https://sololuck.io/api,"Bitcoin solo mining pool stats, per-address miner stats and an open dataset of solo-mined blocks",No,Yes,Yes,L0 收录未验,,待核验
+Cryptocurrency,Technical Analysis,https://technical-analysis-api.com,Cryptocurrency prices and technical analysis,apiKey,Yes,No,L0 收录未验,,待核验
+Cryptocurrency,The Coin Analysis,https://www.thecoinanalysis.com/developers,"Live and historical cryptocurrency prices, market caps, volatility and drawdown",apiKey,Yes,Yes,L0 收录未验,,待核验
+Cryptocurrency,TronOrb,https://tronorb.com/developers/api,"TRON data: USDT TRC-20 fees, address checks, Tether freezes, dApp and exchange rankings",No,Yes,Yes,L0 收录未验,,待核验
+Cryptocurrency,VALR,https://docs.valr.com/,Cryptocurrency Exchange based in South Africa,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,ScriptMasterLabs MCP,https://mcp-x402.onrender.com,"Model Context Protocol server with web search, social search & LLM chat paid via x402",apiKey,Yes,Yes,L0 收录未验,,待核验
+Cryptocurrency,WhiteBIT,https://docs.whitebit.com,European cryptocurrency exchange,No,Yes,Yes,L0 收录未验,,待核验
+Cryptocurrency,WorldCoinIndex,https://www.worldcoinindex.com/apiservice,Cryptocurrencies Prices,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Cryptocurrency,XRPL.to,https://xrpl.to/docs,"XRP Ledger token prices, holders, trades and NFT data",No,Yes,Yes,L0 收录未验,,待核验
+Cryptocurrency,Zennet,https://zennet.cloud,"x402 pay-per-use APIs: Polymarket signals, CEX/DEX spreads, contract risk scores, gas oracle",No,Yes,Yes,L0 收录未验,,待核验
+Cryptocurrency,ZMOK,https://zmok.io,Ethereum JSON RPC API and Web3 provider,No,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,17NAS,https://17nas.com,"Free IP geolocation API with IPv4/IPv6 detection, ASN and country info, no auth required",No,Yes,Yes,L0 收录未验,,待核验
+Geocoding,IPstack,https://ipstack.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers,Locate and identify website visitors by IP address,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,ipapi.com,https://ipapi.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers,Real-time Geolocation & Reverse IP Lookup REST API,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,Actinia Grass GIS,https://actinia.mundialis.de/api_docs/,Actinia is an open source REST API for geographical data that uses GRASS GIS,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,administrative-divisons-db,https://github.com/kamikazechaser/administrative-divisions-db,Get all administrative divisions of a country,No,Yes,Yes,L0 收录未验,,待核验
+Geocoding,ApogeoAPI,https://apogeoapi.com,"Bundled API for countries, states, cities, IP geolocation, and live exchange rates",apiKey,Yes,Yes,L0 收录未验,,待核验
+Geocoding,adresse.data.gouv.fr,https://adresse.data.gouv.fr,"Address database of France, geocoding and reverse",No,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,Airtel IP,https://sys.airtel.lv/ip2country/1.1.1.1/?full=true,IP Geolocation API. Collecting data from multiple sources,No,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,Apiip,https://apiip.net/,Get location information by IP address,apiKey,Yes,Yes,L0 收录未验,,待核验
+Geocoding,AtlasFetch,https://atlasfetch.xyz/docs,"Reverse geocode coordinates to country, region and municipality with ISO 3166 codes",apiKey,Yes,No,L0 收录未验,,待核验
+Geocoding,Battuta,http://battuta.medunes.net,A (country/region/city) in-cascade location API,apiKey,No,Unknown,L0 收录未验,,待核验
+Geocoding,BdAPIs,https://bdapis.com/,"Get divisions, districts, and upazzilas of Bangladesh",No,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,BigDataCloud,https://www.bigdatacloud.com/docs,Provides fast and accurate IP geolocation APIs along with security checks and confidence area,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,Bing Maps,https://www.microsoft.com/maps/,Create/customize digital maps based on Bing Maps data,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,bng2latlong,https://www.getthedata.com/bng2latlong,Convert British OSGB36 easting and northing (British National Grid) to WGS84 latitude and longitude,No,Yes,Yes,L0 收录未验,,待核验
+Geocoding,Cartes.io,https://github.com/M-Media-Group/Cartes.io/wiki/API,Create maps and markers for anything,No,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,Cep.la,http://cep.la/,"Brazil RESTful API to find information about streets, zip codes, neighborhoods, cities and states",No,No,Unknown,L0 收录未验,,待核验
+Geocoding,CitySDK,http://www.citysdk.eu/citysdk-toolkit/,Open APIs for select European cities,No,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,Country,http://country.is/,Get your visitor's country from their IP,No,Yes,Yes,L0 收录未验,,待核验
+Geocoding,CountryStateCity,https://countrystatecity.in/,"World countries, states, regions, provinces, cities & towns in JSON, SQL, XML, YAML, & CSV format",apiKey,Yes,Yes,L0 收录未验,,待核验
+Geocoding,Ducks Unlimited,https://gis.ducks.org/datasets/du-university-chapters/api,API explorer that gives a query URL with a JSON response of locations and cities,No,Yes,No,L0 收录未验,,待核验
+Geocoding,FindIP,https://www.findip.net/Docs/api-response,"IP geolocation with VPN, proxy, Tor, datacenter and malicious IP detection, free",apiKey,Yes,Yes,L0 收录未验,,待核验
+Geocoding,GeoApi,https://api.gouv.fr/api/geoapi.html,French geographical data,No,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,Geoapify,https://www.geoapify.com/api/geocoding-api/,"Forward and reverse geocoding, address autocomplete",apiKey,Yes,Yes,L0 收录未验,,待核验
+Geocoding,Geocod.io,https://www.geocod.io/,Address geocoding / reverse geocoding in bulk,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,Geocode.xyz,https://geocode.xyz/api,"Provides worldwide forward/reverse geocoding, batch geocoding and geoparsing",No,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,Geocodify.com,https://geocodify.com/,"Worldwide geocoding, geoparsing and autocomplete for addresses",apiKey,Yes,Yes,L0 收录未验,,待核验
+Geocoding,Geodata.gov.gr,https://geodata.gov.gr/en/,Open geospatial data and API service for Greece,No,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,GeoDataSource,https://www.geodatasource.com/web-service,Geocoding of city name by using latitude and longitude coordinates,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,GeoDB Cities,http://geodb-cities-api.wirefreethought.com/,"Get global city, region, and country data",apiKey,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,GeographQL,https://geographql.netlify.app,"A Country, State, and City GraphQL API",No,Yes,Yes,L0 收录未验,,待核验
+Geocoding,GeoJS,https://www.geojs.io/,IP geolocation with ChatOps integration,No,Yes,Yes,L0 收录未验,,待核验
+Geocoding,Geokeo,https://geokeo.com,Geokeo geocoding service- with 2500 free api requests daily,No,Yes,Yes,L0 收录未验,,待核验
+Geocoding,GeoNames,http://www.geonames.org/export/web-services.html,Place names and other geographical data,No,No,Unknown,L0 收录未验,,待核验
+Geocoding,geoPlugin,https://www.geoplugin.com,IP geolocation and currency conversion,No,Yes,Yes,L0 收录未验,,待核验
+Geocoding,Google Earth Engine,https://developers.google.com/earth-engine/,A cloud-based platform for planetary-scale environmental data analysis,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,Google Maps,https://developers.google.com/maps/,Create/customize digital maps based on Google Maps data,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,Graph Countries,https://github.com/lennertVanSever/graphcountries,"Country-related data like currencies, languages, flags, regions+subregions and bordering countries",No,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,HackMyIP,https://hackmyip.com/api,"IP geolocation, ISP and privacy/VPN scoring, email breach checks, DNS and WHOIS lookups",No,Yes,Yes,L0 收录未验,,待核验
+Geocoding,HelloSalut,https://fourtonfish.com/project/hellosalut-api/,Get hello translation following user language,No,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,HERE Maps,https://developer.here.com,Create/customize digital maps based on HERE Maps data,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,Hirak IP to Country,https://iplocation.hirak.site/,"Ip to location with country code, currency code & currency name, fast response, unlimited requests",apiKey,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,Hong Kong GeoData Store,https://geodata.gov.hk/gs/,API for accessing geo-data of Hong Kong,No,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,IBGE,https://servicodados.ibge.gov.br/api/docs/,Aggregate services of IBGE (Brazilian Institute of Geography and Statistics),No,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,IP 2 Country,https://ip2country.info,Map an IP to a country,No,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,IP Address Details,https://ipinfo.io/,Find geolocation with ip address,No,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,IP Vigilante,https://www.ipvigilante.com/,Free IP Geolocation API,No,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,ip-api,https://ip-api.com/docs,Find location with IP address or domain,No,No,Unknown,L0 收录未验,,待核验
+Geocoding,IP-API.io,https://ip-api.io,"IP geolocation with VPN/proxy/Tor detection, reputation and risk score",apiKey,Yes,Yes,L0 收录未验,,待核验
+Geocoding,IP Geolocation,https://www.abstractapi.com/ip-geolocation-api,Geolocate website visitors from their IPs,apiKey,Yes,Yes,L0 收录未验,,待核验
+Geocoding,IP2Location,https://www.ip2location.com/web-service/ip2location,IP geolocation web service to get more than 55 parameters,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,IP2Proxy,https://www.ip2location.com/web-service/ip2proxy,Detect proxy and VPN using IP address,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,ip2geo.dev,https://ip2geo.dev,Programmatically convert IP addresses into geolocation data,apiKey,Yes,Yes,L0 收录未验,,待核验
+Geocoding,IP99,https://ip99.com/api,"IP geolocation with proxy, VPN and datacenter risk and the age of the evidence",No,Yes,Yes,L0 收录未验,,待核验
+Geocoding,ipapi.co,https://ipapi.co/api/#introduction,Find IP address location information,No,Yes,Yes,L0 收录未验,,待核验
+Geocoding,IPGEO,https://api.techniknews.net/ipgeo/,Unlimited free IP Address API with useful information,No,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,ipgeolocation,https://ipgeolocation.io/,IP Geolocation AP with free plan 30k requests per month,apiKey,Yes,Yes,L0 收录未验,,待核验
+Geocoding,ipgeolocationapi,https://ipgeolocationapi.io/docs,"IP geolocation with ASN, timezone, currency and threat data, 5,000 keyless calls a day",No,Yes,Yes,L0 收录未验,,待核验
+Geocoding,IPInfoDB,https://www.ipinfodb.com/api,"Free Geolocation tools and APIs for country, region, city and time zone lookup by IP address",apiKey,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,IPKit,https://ipkit.dev/docs,"IP lookup with location, ASN/ISP and VPN/proxy/Tor signals",No,Yes,Yes,L0 收录未验,,待核验
+Geocoding,ipstack,https://ipstack.com/,Locate and identify website visitors by IP address,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,ipwhois,https://ipwhois.io/documentation,"IP geolocation with country, city, coordinates, ISP, timezone and flag data",No,Yes,Yes,L0 收录未验,,待核验
+Geocoding,Kakao Maps,https://apis.map.kakao.com,Kakao Maps provide multiple APIs for Korean maps,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,keycdn IP Location Finder,https://tools.keycdn.com/geo,Get the IP geolocation data through the simple REST API. All the responses are JSON encoded,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,Kiprio UK Postcode,https://kiprio.com/v1/postcode,"UK postcode lookup with lat/lon, district, ward, constituency",apiKey,Yes,Yes,L0 收录未验,,待核验
+Geocoding,LatLng,https://www.latlng.work/docs,"Geocoding, reverse geocoding, places, and static maps",No,Yes,Yes,L0 收录未验,,待核验
+Geocoding,LocationIQ,https://locationiq.org/docs/,Provides forward/reverse geocoding and batch geocoding,apiKey,Yes,Yes,L0 收录未验,,待核验
+Geocoding,Locio,https://locio.com.au/docs/,"Australian address autocomplete, validation and geocoding from the G-NAF national register",apiKey,Yes,Yes,L0 收录未验,,待核验
+Geocoding,Longdo Map,https://map.longdo.com/docs/,Interactive map with detailed places and information portal in Thailand,apiKey,Yes,Yes,L0 收录未验,,待核验
+Geocoding,Mapbox,https://docs.mapbox.com/,Create/customize beautiful digital maps,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,MapQuest,https://developer.mapquest.com/,To access tools and resources to map the world,apiKey,Yes,No,L0 收录未验,,待核验
+Geocoding,Mexico,https://github.com/IcaliaLabs/sepomex,Mexico RESTful zip codes API,No,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,Moradas,https://moradas.dev/docs,Portuguese address autocomplete and 7-digit postal codes (CP7),No,Yes,Yes,L0 收录未验,,待核验
+Geocoding,MyPincode,https://mypincode.live,Indian PIN code and postal office lookup,No,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,Network Data Labs,https://www.networkdatalabs.com/docs,"IP geolocation with accuracy radius, ASN, and flags for Tor exits, known VPN networks and hosting",apiKey,Yes,No,L0 收录未验,,待核验
+Geocoding,Nominatim,https://nominatim.org/release-docs/latest/api/Overview/,Provides worldwide forward / reverse geocoding,No,Yes,Yes,L0 收录未验,,待核验
+Geocoding,"One Map, Singapore",https://www.onemap.gov.sg/docs/,Singapore Land Authority REST API services for Singapore addresses,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,OnWater,https://onwater.io/,Determine if a lat/lon is on water or land,No,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,Open Topo Data,https://www.opentopodata.org,Elevation and ocean depth for a latitude and longitude,No,Yes,No,L0 收录未验,,待核验
+Geocoding,OpenCage,https://opencagedata.com,Forward and reverse geocoding using open data,apiKey,Yes,Yes,L0 收录未验,,待核验
+Geocoding,OpenGeocoding,https://opengeocoding.com/docs,Forward and reverse geocoding and address autocomplete on open data,apiKey,Yes,Yes,L0 收录未验,,待核验
+Geocoding,openrouteservice.org,https://openrouteservice.org/,"Directions, POIs, isochrones, geocoding (+reverse), elevation, and more",apiKey,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,OpenStreetMap,http://wiki.openstreetmap.org/wiki/API,"Navigation, geolocation and geographical data",OAuth,No,Unknown,L0 收录未验,,待核验
+Geocoding,Pandlens,https://pandlens.nl/docs,"Dutch property, building, energy label, 3D roof/solar, parcel and neighbourhood data by postal code",apiKey,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,ParcelGPS,https://www.parcelgps.com/en/developers,"European cadastral parcels by reference or point: coordinates, area, land use and geometry",apiKey,Yes,Yes,L0 收录未验,,待核验
+Geocoding,Pinball Map,https://pinballmap.com/api/v1/docs,A crowdsourced map of public pinball machines,No,Yes,Yes,L0 收录未验,,待核验
+Geocoding,PontoFato,https://pontofato.com/api/,"Brazilian postal codes (CEP) with IBGE coordinates, addresses and the companies registered there",No,Yes,No,L0 收录未验,,待核验
+Geocoding,positionstack,https://positionstack.com/,Forward & Reverse Batch Geocoding REST API,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,PostalCodeCheck,https://postalcodecheck.com/postal-code-api,"City, region and coordinates for 887,000+ postal codes across 95 countries",No,Yes,Yes,L0 收录未验,,待核验
+Geocoding,Postali,https://postali.app/api,Mexico Zip Codes API,No,Yes,Yes,L0 收录未验,,待核验
+Geocoding,PostcodeData.nl,http://api.postcodedata.nl/v1/postcode/?postcode=1211EP&streetnumber=60&ref=domeinnaam.nl&type=json,Provide geolocation data based on postcode for Dutch addresses,No,No,Unknown,L0 收录未验,,待核验
+Geocoding,Postcodes.io,https://postcodes.io,Postcode lookup & Geolocation for the UK,No,Yes,Yes,L0 收录未验,,待核验
+Geocoding,PostalCodes,https://postalcodes.info/api,"Postal code search, country exports, and address validation data",No,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,Queimadas INPE,https://terrabrasilis.dpi.inpe.br/queimadas/portal/,Access to heat focus data (probable wildfire),No,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,REST Countries,https://restcountries.com,Get information about countries via a RESTful API,No,Yes,Yes,L0 收录未验,,待核验
+Geocoding,RoadGoat Cities,https://www.roadgoat.com/business/cities-api,Cities content & photos API,apiKey,Yes,No,L0 收录未验,,待核验
+Geocoding,Rwanda Locations,https://rapidapi.com/victorkarangwa4/api/rwanda,"Rwanda Provences, Districts, Cities, Capital City, Sector, cells, villages and streets",No,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,SearchPinCode,https://searchpincode.in/api,"Indian postal PIN code lookup, post office locator and district data",No,Yes,Yes,L0 收录未验,,待核验
+Geocoding,SLF,https://github.com/slftool/slftool.github.io/blob/master/API.md,"German city, country, river, database",No,Yes,Yes,L0 收录未验,,待核验
+Geocoding,SpotSense,https://spotsense.io/,Add location based interactions to your mobile app,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,sthan.io India PIN Code Autocomplete,https://sthan.io/products/pincode-autocomplete-ind,Autocomplete Indian PIN codes as users type,apiKey,Yes,No,L0 收录未验,,待核验
+Geocoding,sthan.io IP Geolocation,https://sthan.io/products/ip-geolocation,Look up the geographic location of any IPv4 or IPv6 address,apiKey,Yes,No,L0 收录未验,,待核验
+Geocoding,sthan.io Reverse Geocoding,https://sthan.io/products/reverse-geocoding-usa,Convert latitude and longitude to the nearest US street address,apiKey,Yes,No,L0 收录未验,,待核验
+Geocoding,Telize,https://rapidapi.com/fcambus/api/telize/,Telize offers location information from any IP address,apiKey,Yes,Yes,L0 收录未验,,待核验
+Geocoding,TomTom,https://developer.tomtom.com/,"Maps, Directions, Places and Traffic APIs",apiKey,Yes,Yes,L0 收录未验,,待核验
+Geocoding,TrustyData,https://trustydata.fr/docs/,"French address checks, INSEE company search and routing on official open data",apiKey,Yes,Yes,L0 收录未验,,待核验
+Geocoding,Uebermaps,https://uebermaps.com/api/v2,Discover and share maps with friends,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,Unblock Master IP,https://www.unblockmaster.com/free-ip-api/,IP geolocation plus datacenter and VPN detection for any IPv4 or IPv6 address,No,Yes,Yes,L0 收录未验,,待核验
+Geocoding,US ZipCode,https://www.smarty.com/docs/cloud/us-zipcode-api,Validate and append data for any US ZipCode,apiKey,Yes,Yes,L0 收录未验,,待核验
+Geocoding,Utah AGRC,https://api.mapserv.utah.gov,Utah Web API for geocoding Utah addresses,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,ViaCep,https://viacep.com.br,Brazil RESTful zip codes API,No,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,What3Words,https://what3words.com,Three words as rememberable and unique coordinates worldwide,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,Yandex.Maps Geocoder,https://yandex.com/dev/maps/geocoder,Use geocoding to get an object's coordinates from its address,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,ZipCodeAPI,https://www.zipcodeapi.com,"US zip code distance, radius and location API",apiKey,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,Zippopotam.us,http://www.zippopotam.us,"Get information about place such as country, city, state, etc",No,No,Unknown,L0 收录未验,,待核验
+Geocoding,Ziptastic,https://ziptasticapi.com/,"Get the country, state, and city of any US zip-code",No,Yes,Unknown,L0 收录未验,,待核验
+Geocoding,Zornade,https://app.zornade.com/api/,"Cadastral parcels, geocoding, OMI valuations, risk and demographics for Italy (85M parcels)",apiKey,Yes,Yes,L0 收录未验,,待核验
+News,Mediastack,https://mediastack.com?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers,"Free, Simple REST API for Live News & Blog Articles",apiKey,Yes,Unknown,L0 收录未验,,待核验
+News,Associated Press,https://developer.ap.org/,Search for news and metadata from Associated Press,apiKey,Yes,Unknown,L0 收录未验,,待核验
+News,Chronicling America,http://chroniclingamerica.loc.gov/about/api/,Provides access to millions of pages of historic US newspapers from the Library of Congress,No,No,Unknown,L0 收录未验,,待核验
+News,Currents,https://currentsapi.services/,Real-time and historical global news with multilingual support,apiKey,Yes,Yes,L0 收录未验,,待核验
+News,daily.dev,https://docs.daily.dev/public-api/,"Developer news feeds, posts, bookmarks, tags and search from daily.dev",apiKey,Yes,No,L0 收录未验,,待核验
+News,DataCube AI,https://www.datacubeai.space/en/tools/ai-news-api,"Daily curated AI industry news, funding rounds and trends in 8 languages",No,Yes,No,L0 收录未验,,待核验
+News,Feedbin,https://github.com/feedbin/feedbin-api,RSS reader,OAuth,Yes,Unknown,L0 收录未验,,待核验
+News,Florida Man,https://github.com/juliayxhuang/florida-man-api#readme,"Static JSON dataset of 10,000+ Florida Man headlines by date",No,Yes,Yes,L0 收录未验,,待核验
+News,GNews,https://gnews.io/,Search for news from various sources,apiKey,Yes,Yes,L0 收录未验,,待核验
+News,Graphs for Coronavirus,https://corona.dnsforfamily.com/api.txt,Each Country separately and Worldwide Graphs for Coronavirus. Daily updates,No,Yes,Yes,L0 收录未验,,待核验
+News,Inshorts News,https://github.com/cyberboysumanjay/Inshorts-News-API,Provides news from inshorts,No,Yes,Unknown,L0 收录未验,,待核验
+News,MarketAux,https://www.marketaux.com/,Live stock market news with tagged tickers + sentiment and stats JSON API,apiKey,Yes,Yes,L0 收录未验,,待核验
+News,New York Times,https://developer.nytimes.com/,The New York Times Developer Network,apiKey,Yes,Unknown,L0 收录未验,,待核验
+News,News,https://newsapi.org/,Headlines currently published on a range of news sources and blogs,apiKey,Yes,Unknown,L0 收录未验,,待核验
+News,NewsData,https://newsdata.io/docs,News data API for live-breaking news and headlines from reputed  news sources,apiKey,Yes,Unknown,L0 收录未验,,待核验
+News,Newsflash,https://newsflash.sh/docs,Deduplicated news events from 260+ sources with corroboration/confidence scores for AI agents,apiKey,Yes,No,L0 收录未验,,待核验
+News,NewsMesh,https://newsmesh.co/docs,Premium news data from thousands of sources,apiKey,Yes,No,L0 收录未验,,待核验
+News,NewsX,https://rapidapi.com/machaao-inc-machaao-inc-default/api/newsx/,Get or Search Latest Breaking News with ML Powered Summaries 🤖,apiKey,Yes,Unknown,L0 收录未验,,待核验
+News,Noozra,https://noozra.com/api,Free news headlines from 200+ curated RSS sources,No,Yes,Yes,L0 收录未验,,待核验
+News,NPR One,http://dev.npr.org/api/,Personalized news listening experience from NPR,OAuth,Yes,Unknown,L0 收录未验,,待核验
+News,Scoopkit,https://scoopkit.dev,AI-industry news deduplicated into structured events with a versioned category taxonomy,apiKey,Yes,Yes,L0 收录未验,,待核验
+News,Spaceflight News,https://spaceflightnewsapi.net,Spaceflight related news 🚀,No,Yes,Yes,L0 收录未验,,待核验
+News,The Guardian,http://open-platform.theguardian.com/,"Access all the content the Guardian creates, categorised by tags and section",apiKey,Yes,Unknown,L0 收录未验,,待核验
+News,The Old Reader,https://github.com/theoldreader/api,RSS reader,apiKey,Yes,Unknown,L0 收录未验,,待核验
+News,TheNews,https://www.thenewsapi.com/,"Aggregated headlines, top story and live news JSON API",apiKey,Yes,Yes,L0 收录未验,,待核验
+News,Trove,https://trove.nla.gov.au/about/create-something/using-api,Search through the National Library of Australia collection of 1000s of digitised newspapers,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Weather,Weatherstack,https://weatherstack.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers,Real-Time & Historical World Weather Data API,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Weather,7Timer!,http://www.7timer.info/doc.php?lang=en,"Weather, especially for Astroweather",No,No,Unknown,L0 收录未验,,待核验
+Weather,AccuWeather,https://developer.accuweather.com/apis,Weather and forecast data,apiKey,No,Unknown,L0 收录未验,,待核验
+Weather,Aemet,https://opendata.aemet.es/centrodedescargas/inicio,Weather and forecast data from Spain,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Weather,APIXU,https://www.apixu.com/doc/request.aspx,Weather,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Weather,AQICN,https://aqicn.org/api/,Air Quality Index Data for over 1000 cities,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Weather,AviationWeather,https://www.aviationweather.gov/dataserver,NOAA aviation weather forecasts and observations,No,Yes,Unknown,L0 收录未验,,待核验
+Weather,ColorfulClouds,https://open.caiyunapp.com/ColorfulClouds_Weather_API,Weather,apiKey,Yes,Yes,L0 收录未验,,待核验
+Weather,Euskalmet,https://opendata.euskadi.eus/api-euskalmet/-/api-de-euskalmet/,Meteorological data of the Basque Country,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Weather,FMI Open Data,https://en.ilmatieteenlaitos.fi/open-data,"Finnish weather, sea, climate and radar observations via open WFS",No,Yes,Yes,L0 收录未验,,待核验
+Weather,Foreca,https://developer.foreca.com,Weather,OAuth,Yes,Unknown,L0 收录未验,,待核验
+Weather,Hail History,https://hail-history-noaa.netlify.app/api-docs.html,"Radar-detected hail history for any US address from NOAA NEXRAD Level-III hail detections, by year",No,Yes,Yes,L0 收录未验,,待核验
+Weather,HG Weather,https://hgbrasil.com/status/weather,Provides weather forecast data for cities in Brazil,apiKey,Yes,Yes,L0 收录未验,,待核验
+Weather,Hong Kong Observatory,https://www.hko.gov.hk/en/abouthko/opendata_intro.htm,"Provide weather information, earthquake information, and climate data",No,Yes,Unknown,L0 收录未验,,待核验
+Weather,IPMA,https://api.ipma.pt/open-data/,Portuguese weather and climate data,No,Yes,Unknown,L0 收录未验,,待核验
+Weather,KNMI,https://developer.dataplatform.knmi.nl/,"Dutch weather, radar and climate data",apiKey,Yes,Unknown,L0 收录未验,,待核验
+Weather,Meltema,https://meltema.com/docs,"Multi-model weather: GFS, ECMWF AIFS/IFS and a 31-member GEFS ensemble, keyless point forecasts",No,Yes,No,L0 收录未验,,待核验
+Weather,Met Office DataHub,https://datahub.metoffice.gov.uk/docs/,UK weather forecasts and climate data,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Weather,Météo-France,https://portail-api.meteofrance.fr/,French weather forecasts and alerts,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Weather,Meteorologisk Institutt,https://api.met.no/weatherapi/documentation,Weather and climate data,User-Agent,Yes,Unknown,L0 收录未验,,待核验
+Weather,NASA POWER,https://power.larc.nasa.gov/docs/,Global solar and weather data for energy and agriculture,No,Yes,Yes,L0 收录未验,,待核验
+Weather,NOAA CO-OPS,https://api.tidesandcurrents.noaa.gov/api/prod/,"US coastal tides, water levels, currents and meteorological observations",No,Yes,Unknown,L0 收录未验,,待核验
+Weather,ODWeather,http://api.oceandrivers.com/static/docs.html,Weather and weather webcams,No,No,Unknown,L0 收录未验,,待核验
+Weather,Oikolab,https://docs.oikolab.com,"70+ years of global, hourly historical and forecast weather data from NOAA and ECMWF",apiKey,Yes,Yes,L0 收录未验,,待核验
+Weather,Open-Meteo,https://open-meteo.com/,Global weather forecast API for non-commercial use,No,Yes,Yes,L0 收录未验,,待核验
+Weather,Open-Meteo Ensemble,https://open-meteo.com/en/docs/ensemble-api,Weather ensemble forecasts from multiple models,No,Yes,Yes,L0 收录未验,,待核验
+Weather,openSenseMap,https://api.opensensemap.org/,Data from Personal Weather Stations called senseBoxes,No,Yes,Yes,L0 收录未验,,待核验
+Weather,OpenUV,https://www.openuv.io,Real-time UV Index Forecast,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Weather,OpenWeatherMap,https://openweathermap.org/api,Weather,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Weather,Pirate Weather,https://pirateweather.readthedocs.io/en/latest/,Free weather API with forecast data similar to Dark Sky,No,Yes,Yes,L0 收录未验,,待核验
+Weather,QWeather,https://dev.qweather.com/en/,Location-based weather data,apiKey,Yes,Yes,L0 收录未验,,待核验
+Weather,Rainbow Weather,https://developer.rainbow.ai/,Global real-time nowcasting API powered by radar + satellite fusion,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Weather,RainViewer,https://www.rainviewer.com/api.html,Radar data collected from different websites across the Internet,No,Yes,Unknown,L0 收录未验,,待核验
+Weather,Storm Glass,https://stormglass.io/,Global marine weather from multiple sources,apiKey,Yes,Yes,L0 收录未验,,待核验
+Weather,Terrace Weather,https://terrace.javiermateo.dev/swagger-ui.html,"Terrace open/closed verdict for restaurants, from the weather forecast",No,Yes,Yes,L0 收录未验,,待核验
+Weather,Tomorrow,https://docs.tomorrow.io,Weather API Powered by Proprietary Technology,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Weather,US Weather,https://www.weather.gov/documentation/services-web-api,US National Weather Service,No,Yes,Yes,L0 收录未验,,待核验
+Weather,Veabird,https://veabird.com/api/v1,"Beach (sargassum, waves, hurricanes) and ski snow forecasts for 1,900+ resorts, no key",No,Yes,Yes,L0 收录未验,,待核验
+Weather,Visual Crossing,https://www.visualcrossing.com/weather-api,Global historical and weather forecast data,apiKey,Yes,Yes,L0 收录未验,,待核验
+Weather,weather-api,https://github.com/robertoduessmann/weather-api,A RESTful free API to check the weather,No,Yes,No,L0 收录未验,,待核验
+Weather,WeatherAPI,https://www.weatherapi.com/,Weather API with other stuff like Astronomy and Geolocation API,apiKey,Yes,Yes,L0 收录未验,,待核验
+Weather,Weatherbit,https://www.weatherbit.io/api,Weather,apiKey,Yes,Unknown,L0 收录未验,,待核验
+Weather,WeatherTotals,https://weathertotals.com/api,"Measured US snow, rain, hail and aurora totals by state and city",No,Yes,Yes,L0 收录未验,,待核验
+Weather,World Time & Weather,https://worldtimeweather.com/api.html,"Current weather, local time, UTC offset and DST rules for 400 cities as static JSON",No,Yes,Yes,L0 收录未验,,待核验
+Weather,wttr.in,https://wttr.in/:help,"Weather in your terminal, supports JSON output",No,Yes,Yes,L0 收录未验,,待核验
+Weather,Yandex.Weather,https://yandex.com/dev/weather/,Assesses weather condition in specific locations,apiKey,Yes,No,L0 收录未验,,待核验
